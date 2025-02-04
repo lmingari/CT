@@ -26,7 +26,6 @@ header-includes: |
 :::::::::: {.columns}
 :::: {.column}
 
-
 - Postdoctoral researcher
 - Institute: Geosciences Barcelona (GEO3BCN-CSIC) 
 - Start date: January 2023
@@ -112,6 +111,26 @@ challenges and allows the transfer of technology and innovation to society
 - \textcolor{red}{2012: University Degree in Physics}
   - Department of Physics, University of Buenos Aires, Argentina
   - Average university grade: 9.04/10.0
+
+## Introduction: education and research career
+
+**Tesis doctoral (2013-2018):**
+
+:::::::::: {.columns}
+::: {.column width="40%"}
+
+\small
+* "Resuspensión eólica de depósitos volcánicos de caída: parametrización, modelización y pronóstico operacional"
+* Calificación sobresaliente.
+
+:::
+::: {.column width="60%"}
+
+![](figures/resuspension.png)
+
+:::
+::::::::::
+
 
 ## Introduction: education and research career
 
@@ -460,9 +479,26 @@ The interview is also available on YouTube with 13K views [YouTube](https://www.
 
 ## Otros méritos curriculares: Other publications
 
+:::::::::: {.columns}
+::: {.column width="40%"}
+
+**FALL3D userguide**
 ![](figures/fall3d_userguide.png)
 
-## Otros méritos curriculares: Awards and fellowships
+:::
+::: {.column width="40%"}
+
+**Reporte técnico**
+![](figures/Nota_Tecnica_cover.pdf)
+
+:::
+::::::::::
+
+## Otros méritos curriculares: Awards, mentions and fellowships
+
+1. **Ph.D. dissertation:**
+"Resuspensión eólica de depósitos volcánicos de caída: parametrización, modelización y pronóstico operacional".
+Calificación sobresaliente.
 
 1. **Fully-funded PhD scholarship (2013-2018):**
 Granted after a competitive selection process. Funded by CONICET (Argentinian National Scientific Research Council)
