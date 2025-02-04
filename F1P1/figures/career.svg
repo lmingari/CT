@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="602.51575mm"
+   height="343.0791mm"
+   viewBox="0 0 602.51576 343.07911"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="career.svg"
+   inkscape:export-filename="career11.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.28103352"
+     inkscape:cx="1188.4704"
+     inkscape:cy="654.72618"
+     inkscape:window-width="1322"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect38"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,36.56962,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="P1"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43"
+       width="76.639862"
+       height="30.008648"
+       x="-3.9913969"
+       y="106.6925" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.7160625"
+       y="208.50117"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="208.50117">National project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="224.37617"
+         id="tspan3">Aplicaciones de modelos numéricos de última generación, </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="240.25117"
+         id="tspan4">en el ámbito del Servicio Meteorológico Nacional para el </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="256.12616"
+         id="tspan5">pronóstico del tiempo. Estudios de vulnerabilidad del </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="272.00116"
+         id="tspan12">medio ambiente e impacto socioeconómico.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="287.87616"
+         id="tspan13" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="303.75116"
+         id="tspan6">PI: Estela Collini</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.7160625"
+         y="319.62616"
+         id="tspan7">National Weather Service (Argentina)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="P2"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.3731625"
+       y="208.50117"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:5"
+         x="3.3731625"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="224.37617"
+         id="tspan19">SAVERNet: South American Environmental Risk </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="240.25117"
+         id="tspan16">Management Network </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="256.12616"
+         id="tspan24">(trilateral project among Japan, Argentina, and Chile)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="272.00116"
+         id="tspan20" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="287.87616"
+         id="tspan18">PI: Akira Mizuno</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.3731625"
+         y="303.75116"
+         id="tspan22">National Weather Service (Argentina)</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1.25497;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-0"
+       width="121.73875"
+       height="29.753675"
+       x="153.45917"
+       y="106.81998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="P3"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.3731625"
+       y="208.50117"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:10"
+         x="3.3731625"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.3731625"
+         y="224.37617"
+         id="tspan31">RELAMPAGO-CACTI: High Impact Weather in </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.3731625"
+         y="240.25117"
+         id="tspan37">Subtropical South America.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.3731625"
+         y="256.12616"
+         id="tspan38" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.3731625"
+         y="272.00116"
+         id="tspan30">PI: Steve Nesbitt</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.3731625"
+         y="287.87616"
+         id="tspan36">National Weather Service (Argentina)</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-1"
+       width="76.639862"
+       height="30.008648"
+       x="236.00859"
+       y="138.76584" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="P4"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-5"
+       width="156.55034"
+       height="29.589443"
+       x="276.05334"
+       y="106.9021" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1191626"
+       y="208.50117"
+       id="text2-9"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="224.37617"
+         id="tspan13-2">ChEESE: Centre of Excellence for Exascale in Solid</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="240.25117"
+         id="tspan46">Earth (7.600.000 €)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="256.12616"
+         id="tspan48" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="272.00116"
+         id="tspan49">PI: Arnau Folch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="287.87616"
+         id="tspan7-4">Barcelona Supercomputing Center</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="P5"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1.25497;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-0-7"
+       width="121.73875"
+       height="29.753675"
+       x="313.45914"
+       y="138.89333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.7033625"
+       y="208.50117"
+       id="text15-4"><tspan
+         sodipodi:role="line"
+         id="tspan15-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:5"
+         x="3.7033625"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.7033625"
+         y="224.37617"
+         id="tspan22-4">VoHa: Volcanic ash hazard and forecast (PRACE)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.7033625"
+         y="240.25117"
+         id="tspan55" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.7033625"
+         y="256.12616"
+         id="tspan54">PI: Arnau Folch</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="3.7033625"
+         y="272.00116"
+         id="tspan57">Barcelona Supercomputing Center</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="P6"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-1-8"
+       width="76.639862"
+       height="30.008648"
+       x="396.00858"
+       y="172.69791" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1445625"
+       y="208.50117"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="224.37617"
+         id="tspan13-9">eFlows4HPC: Enabling dynamic and </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="240.25117"
+         id="tspan25">Intelligent workflows in the future EuroHPC </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="256.12616"
+         id="tspan17">ecosystem</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="272.00116"
+         id="tspan21" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="287.87616"
+         id="tspan7-6">PI: Rosa Badia</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1445625"
+         y="303.75116"
+         id="tspan23">Barcelona Supercomputing Center</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="P7"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-5-0"
+       width="144.27583"
+       height="29.628809"
+       x="432.19061"
+       y="106.88242" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1191626"
+       y="208.50117"
+       id="text2-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="224.37617"
+         id="tspan7-4-2">DT-GEO: A Digital Twin for GEOphysical extremes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="240.25117"
+         id="tspan72" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="256.12616"
+         id="tspan70">PI: Arnau Folch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="272.00116"
+         id="tspan71">Geosciences Barcelona (GEO3BCN-CSIC)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="P8"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-5-0-7"
+       width="163.52647"
+       height="29.565323"
+       x="433.99789"
+       y="138.9875" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1191626"
+       y="208.50117"
+       id="text79"><tspan
+         sodipodi:role="line"
+         id="tspan75"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="224.37617"
+         id="tspan79">Geo-INQUIRE: Geosphere INfrastructures for QUestions </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="240.25117"
+         id="tspan82">into Integrated REsearch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="256.12616"
+         id="tspan85" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="272.00116"
+         id="tspan83">PI: Fabrice Cotton</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="287.87616"
+         id="tspan87">Geosciences Barcelona (GEO3BCN-CSIC)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="P9"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-5-0-7-4"
+       width="162.86624"
+       height="29.567434"
+       x="433.99683"
+       y="206.53816" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#8da4ff;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1191626"
+       y="208.50117"
+       id="text93"><tspan
+         sodipodi:role="line"
+         id="tspan88"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="224.37617"
+         id="tspan93">ChEESE-2P: Center of Excellence for Exascale in Solid</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="240.25117"
+         id="tspan97">Earth - Second Phase.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="256.12616"
+         id="tspan99" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="272.00116"
+         id="tspan98">PI: Arnau Folch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#1a1a1a;stroke-width:5"
+         x="3.1191626"
+         y="287.87616"
+         id="tspan101">Geosciences Barcelona (GEO3BCN-CSIC)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="P10"
+     transform="translate(4.4913969,-10.570377)"
+     style="display:none">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-1-8-8"
+       width="82.14978"
+       height="29.973925"
+       x="493.25363"
+       y="172.71527" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.8049626"
+       y="208.50117"
+       id="text125"><tspan
+         sodipodi:role="line"
+         id="tspan120"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:10"
+         x="3.8049626"
+         y="208.50117">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="224.37617"
+         id="tspan122">GET-IT: Geohazards Early Digital Twin Component</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="240.25117"
+         id="tspan126" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="256.12616"
+         id="tspan128">The GET-it project aims to design and test a Digital Twin</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="272.00116"
+         id="tspan130">Component (DTC) for geohazards (volcanoes, earthquakes</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="287.87616"
+         id="tspan131"> and other natural or anthropic origin geohazards)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="303.75116"
+         id="tspan133">exploiting multi-sensor EO data and AI techniques.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="319.62616"
+         id="tspan123" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="335.50116"
+         id="tspan124">PI: Salvatore Stramondo</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="3.8049626"
+         y="351.37616"
+         id="tspan125">Geosciences Barcelona (GEO3BCN-CSIC)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="P11"
+     style="display:inline"
+     transform="translate(0,0.09877827)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ff0808;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       id="rect43-1-8-8-8"
+       width="82.14978"
+       height="29.973925"
+       x="514.90887"
+       y="240.32533"
+       transform="translate(4.4913968,-10.669155)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="7.8645597"
+       y="197.83202"
+       id="text107"><tspan
+         sodipodi:role="line"
+         id="tspan102"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';stroke-width:10"
+         x="7.8645597"
+         y="197.83202">International project:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="7.8645597"
+         y="213.70702"
+         id="tspan107">GANANA: EU-INDIA Partnership for </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="7.8645597"
+         y="229.58202"
+         id="tspan111">Scientific High-Performance Computing</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="7.8645597"
+         y="245.45702"
+         id="tspan114" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="7.8645597"
+         y="261.332"
+         id="tspan112">PI: Rossen Apostolov</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:10"
+         x="7.8645597"
+         y="277.207"
+         id="tspan116">Geosciences Barcelona (GEO3BCN-CSIC)</tspan></text>
+  </g>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.4913969,-10.570377)"
+     style="display:inline">
+    <g
+       id="g39"
+       transform="translate(67.41109,61.918897)">
+      <path
+         style="fill:#00ffff;stroke:#8dffc9;stroke-width:15.314;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+         d="m 466.91744,28.992494 h 20"
+         id="path1-8-0-6-5" />
+      <path
+         style="fill:#8dffc9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+         d="M 486.91744,36.403588 501.73962,28.992493 486.91744,21.5814 Z"
+         id="path39" />
+    </g>
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 279.50682,46.865011 15.314,-7.657005 -15.314,-7.657003 z"
+       id="path39-6" />
+    <path
+       style="fill:#8da4ff;stroke:#cca0d2;stroke-width:15.314;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.328534,90.911391 h 40"
+       id="path1" />
+    <path
+       style="fill:#00ff1a;fill-opacity:1;stroke:#00ba0d;stroke-width:15.314;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.328534,90.911391 H 254.32853"
+       id="path1-8" />
+    <g
+       id="path1-8-9"
+       transform="matrix(1.2933441,0,0,1,-6.1125649,0)">
+      <path
+         style="fill:#00ffff;stroke-miterlimit:12"
+         d="M 20.837525,39.208648 H 220.83753"
+         id="path41" />
+      <path
+         style="fill:#969696;stroke-miterlimit:12"
+         d="M 20.837891,31.550781 V 46.865234 H 220.83789 V 31.550781 Z"
+         id="path42" />
+    </g>
+    <g
+       id="path1-8-9-6"
+       transform="matrix(0.64439746,0,0,1,296.70716,-4.9999999e-7)">
+      <path
+         style="fill:#00ffff;stroke-miterlimit:12"
+         d="M 20.837525,39.208648 H 220.83753"
+         id="path41-0" />
+      <path
+         style="fill:#969696;stroke-miterlimit:12"
+         d="M 20.837891,31.550781 V 46.865234 H 220.83789 V 31.550781 Z"
+         id="path42-2" />
+    </g>
+    <g
+       id="path1-8-9-6-8"
+       transform="matrix(0.42097022,0,0,1,460.87054,-5e-7)">
+      <path
+         style="fill:#00ffff;stroke-miterlimit:12"
+         d="M 20.837525,39.208648 H 220.83753"
+         id="path41-0-7" />
+      <path
+         style="fill:#969696;stroke-miterlimit:12"
+         d="M 20.837891,31.550781 V 46.865234 H 220.83789 V 31.550781 Z"
+         id="path42-2-0" />
+    </g>
+    <path
+       style="fill:#00ffff;stroke:#8dffc9;stroke-width:15.314;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 254.32853,90.911391 h 200"
+       id="path1-8-0" />
+    <path
+       style="fill:#00ffff;stroke:#8dffc9;stroke-width:15.314;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 454.32853,90.911391 h 80"
+       id="path1-8-0-6" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="path2"
+       cx="55.31012"
+       cy="90.911392"
+       r="7.8607593" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="path2-68"
+       cx="253.34685"
+       cy="90.911392"
+       r="7.8607593" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="path2-68-9"
+       cx="293.34686"
+       cy="90.911392"
+       r="7.8607593" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="path2-7"
+       cx="13.876104"
+       cy="90.911392"
+       r="7.8607593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="3.1290872"
+       y="82.951859"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-size:9.87778px;stroke-width:5"
+         x="3.1290872"
+         y="82.951859">2012</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="-1.5895064"
+       y="118.64671"
+       id="text14-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="-1.5895064"
+         y="118.64671">2012</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="158.05348"
+       y="118.64671"
+       id="text14-4-64"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="158.05348"
+         y="118.64671">2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="254.05688"
+       y="118.64671"
+       id="text14-4-64-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="254.05688"
+         y="118.64671">2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="238.04572"
+       y="151.63712"
+       id="text14-4-64-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="238.04572"
+         y="151.63712">2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="294.05688"
+       y="151.63712"
+       id="text14-4-64-8-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="294.05688"
+         y="151.63712">2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="317.05231"
+       y="151.63712"
+       id="text14-4-64-8-1-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="317.05231"
+         y="151.63712">2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="414.05688"
+       y="151.63712"
+       id="text14-4-64-8-1-7-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="414.05688"
+         y="151.63712">2022</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="278.10004"
+       y="118.64671"
+       id="text14-4-64-8-1-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="278.10004"
+         y="118.64671">2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="414.05688"
+       y="118.64671"
+       id="text14-4-64-8-1-7-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="414.05688"
+         y="118.64671">2022</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="437.59558"
+       y="118.64671"
+       id="text14-4-64-8-1-7-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="437.59558"
+         y="118.64671">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="437.37051"
+       y="151.63712"
+       id="text14-4-64-8-1-7-8-3-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5-8-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="437.37051"
+         y="151.63712">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="554.05688"
+       y="118.64671"
+       id="text14-4-64-8-1-7-8-3-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5-8-8-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="554.05688"
+         y="118.64671">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="577.60797"
+       y="148.36639"
+       id="text14-4-64-8-1-7-8-3-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-5-8-8-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="577.60797"
+         y="148.36639">2026</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="54.056896"
+       y="118.64671"
+       id="text14-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="54.056896"
+         y="118.64671">2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="44.449509"
+       y="82.941978"
+       id="text14-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-8"
+         style="font-size:9.87778px;stroke-width:5"
+         x="44.449509"
+         y="82.941978">2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="242.35289"
+       y="82.951859"
+       id="text14-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-1"
+         style="font-size:9.87778px;stroke-width:5"
+         x="242.35289"
+         y="82.951859">2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="282.40723"
+       y="82.951859"
+       id="text14-2-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-1-5"
+         style="font-size:9.87778px;stroke-width:5"
+         x="282.40723"
+         y="82.951859">2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="442.38123"
+       y="82.951859"
+       id="text14-2-3-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-1-5-8"
+         style="font-size:9.87778px;stroke-width:5"
+         x="442.38123"
+         y="82.951859">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="521.71417"
+       y="82.941978"
+       id="text14-2-3-1-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-1-5-8-4"
+         style="font-size:9.87778px;stroke-width:5"
+         x="521.71417"
+         y="82.941978">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="136.26701"
+       y="94.511841"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-size:9.87778px;stroke-width:10"
+         x="136.26701"
+         y="94.511841">Pre-doc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="353.81238"
+       y="94.511841"
+       id="text26-3"><tspan
+         sodipodi:role="line"
+         id="tspan26-7"
+         style="font-size:9.87778px;stroke-width:10"
+         x="353.81238"
+         y="94.511841">Post-doc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="506.05573"
+       y="95.217751"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="stroke-width:10"
+         x="506.05573"
+         y="95.217751" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:10"
+         id="tspan33"
+         x="506.05573"
+         y="104.0372" /></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 174.32853,112.68289 h 80"
+       id="path38" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 294.32853,112.68289 h 120"
+       id="path38-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.328534,112.68289 h 40"
+       id="path38-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 254.32853,145.67329 h 40"
+       id="path38-5-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 454.32853,112.68289 h 100"
+       id="path38-5-9-4-4" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 454.32853,145.67329 H 573.64267"
+       id="path38-5-9-4-4-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9)"
+       d="m 454.32853,213.225 h 118.6518"
+       id="path38-5-9-4-4-5-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 334.32853,145.67329 h 80"
+       id="path38-5-9-8-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="397.59558"
+       y="185.56918"
+       id="text14-4-64-8-1-7-4-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="397.59558"
+         y="185.56918">2022</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="454.05688"
+       y="185.56918"
+       id="text14-4-64-8-1-7-4-7-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="454.05688"
+         y="185.56918">2023</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 414.32853,179.60536 h 40"
+       id="path38-5-9-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 514.32853,179.60536 h 40"
+       id="path38-5-9-4-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="497.47141"
+       y="185.56918"
+       id="text14-4-64-8-1-7-4-7-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="497.47141"
+         y="185.56918">2024</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="554.05688"
+       y="185.56918"
+       id="text14-4-64-8-1-7-4-7-9-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="554.05688"
+         y="185.56918">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="517.35107"
+       y="253.17923"
+       id="text14-4-64-8-1-7-4-7-9-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="517.35107"
+         y="253.17923">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="577.48767"
+       y="249.90463"
+       id="text14-4-64-8-1-7-4-7-9-8-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-3-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="577.48767"
+         y="249.90463">2028</tspan></text>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-2)"
+       d="m 534.20823,247.2154 h 40"
+       id="path38-5-9-4-0-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="437.59558"
+       y="219.18883"
+       id="text14-4-64-8-1-7-4-7-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="437.59558"
+         y="219.18883">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       x="577.60797"
+       y="215.91423"
+       id="text14-4-64-8-1-7-4-7-9-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-3-9-7-1-6-7-5-7-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:5"
+         x="577.60797"
+         y="215.91423">2026</tspan></text>
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="circle39"
+       cx="453.82852"
+       cy="90.911392"
+       r="7.8607593" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-miterlimit:12;stroke-dasharray:none"
+       id="circle39-3"
+       cx="533.05878"
+       cy="90.911392"
+       r="7.8607593" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.837525,46.865011 5.5235251,39.208006 20.837525,31.551003 Z"
+       id="path39-6-9" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 310.13481,46.865011 -15.31399,-7.657005 15.31399,-7.657003 z"
+       id="path39-6-9-8" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 469.64252,46.865011 -15.31399,-7.657005 15.31399,-7.657003 z"
+       id="path39-6-9-8-91" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 439.01454,46.865011 15.31399,-7.657005 -15.31399,-7.657003 z"
+       id="path39-6-9-8-9" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.03318;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="m 553.83672,46.865011 15.31399,-7.657005 -15.31399,-7.657003 z"
+       id="path39-6-9-8-9-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="149.54987"
+       y="17.968834"
+       id="text26-1"><tspan
+         sodipodi:role="line"
+         id="tspan26-0"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="149.54987"
+         y="17.968834">National Weather Service (Argentina)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="149.54987"
+         y="30.316059"
+         id="tspan1">CONICET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="374.53516"
+       y="17.968834"
+       id="text26-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan26-0-0"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="374.53516"
+         y="17.968834">Barcelona Supercomputing</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="374.53516"
+         y="30.316059"
+         id="tspan42">Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:10;stroke-miterlimit:12;stroke-dasharray:none"
+       x="511.82852"
+       y="17.968834"
+       id="text26-1-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="511.82852"
+         y="17.968834"
+         id="tspan42-2">Geosciences Barcelona</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:10"
+         x="511.82852"
+         y="30.316059"
+         id="tspan8">CSIC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="hidden"
+     style="display:none"
+     transform="translate(4.4913969,-10.570377)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.921824;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1"
+       d="M 518.96572,247.2154 V 213.225"
+       id="path38-5-9-4-6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="common"
+     transform="translate(4.4913969,-10.570377)"
+     style="display:inline" />
+</svg>
